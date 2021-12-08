@@ -1,4 +1,6 @@
+# timer bot to take time to reply #
 set rplytimer 3
+# replace the channel name here #
 set chname  "#error"
 
 set autorply {
